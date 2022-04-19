@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/ahzsec/random-web-code/blob/main/LICENSE.md">
+    <a href="https://github.com/ahzsec/random-solidity-code/blob/main/LICENSE.md">
         <img src="https://img.shields.io/badge/License-MIT-b3b0f4" alt="License badge" width="75">
     </a>
   </p>
