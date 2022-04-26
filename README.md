@@ -14,5 +14,6 @@
   | Repo      | Description | Stack     |
 | :---        |    :----:   |          ---: |
 | [Hello World](https://github.com/ahzsec/random-solidity-code/tree/main/HelloWorld) | A simple Hello World app | <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity badge" width="66"> |
+| [Primitive Data Types](https://github.com/ahzsec/random-solidity-code/tree/main/PrimitiveDataTypes) | A simple Primitive Data Types examples | <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity badge" width="66"> |
 
 </div>
