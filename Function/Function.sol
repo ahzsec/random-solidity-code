@@ -2,10 +2,10 @@
 pragma solidity ^0.8.4;
 
 contract FunctionIntro {
-    function add(uint x, uint y) external returns (uint) {
+    function add(uint x, uint y) external pure returns (uint) {
         return x + y;
     }
-    function sub(uint x, uint y) external returns (uint) {
+    function sub(uint x, uint y) external pure returns (uint) {
         return x - y;
     }
 }
