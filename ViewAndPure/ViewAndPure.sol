@@ -3,9 +3,10 @@ pragma solidity ^0.8.4;
 
 contract ViewAndPure {
     uint public x;
+    uint public y;
 
     // View does not allow to modify the state.
-    function viewFunc(uint y) public view returns (uint) {
+    function viewFunc() public view returns (uint) {
         return x + y;
     }
 
