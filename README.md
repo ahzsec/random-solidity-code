@@ -18,5 +18,6 @@
 | [Function](https://github.com/ahzsec/random-solidity-code/tree/main/Function) | A simple Function examples | <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity badge" width="66"> |
 | [Variables](https://github.com/ahzsec/random-solidity-code/tree/main/Variables) | A simple State, Local and Global variables examples | <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity badge" width="66"> |
 | [View And Pure](https://github.com/ahzsec/random-solidity-code/tree/main/ViewAndPure) | A simple View and Pure Functions examples | <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity badge" width="66"> |
+| [Counter](https://github.com/ahzsec/random-solidity-code/tree/main/Counter) | A simple Counter app | <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity badge" width="66"> |
 
 </div>
