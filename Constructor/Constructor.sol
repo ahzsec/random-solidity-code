@@ -1,0 +1,10 @@
+// SPDX-License-Identifier: GPL-3.0
+pragma solidity ^0.8.4;
+
+contract Constructor {
+    address public owner;
+
+    constructor() {
+        owner = msg.sender;
+    }
+}
